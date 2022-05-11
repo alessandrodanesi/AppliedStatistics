@@ -1,12 +1,5 @@
 ####################  USEFUL CODE FOR APPLIED STATISTICS #################### 
 
-# OPT + CMD + 0
-
-#### setting directories ####
-
-setwd('/Users/gildamatteucci/OneDrive - Politecnico di Milano/UNIVERSITA/APPLIED_STATISTICS/LABORATORY')
-setwd('C:/Users/dario/OneDrive - Politecnico di Milano/LABORATORY')
-
 
 #### LIBRARIES ####
 
